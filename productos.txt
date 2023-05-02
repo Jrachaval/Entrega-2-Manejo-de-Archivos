@@ -1,0 +1,1 @@
+[{"id":1,"title":"Modificación","description":"modificación","price":55,"thumbnail":"modificación","code":"P8273","stock":60},{"id":"P47721","title":"Producto 3","description":"Descripción del producto 3","price":30,"thumbnail":"No image","code":"P1234","stock":300}]
